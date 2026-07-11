@@ -1,4 +1,4 @@
-# Prisma ORM Practice
+# Prisma ORM Practice Module
 
 A beginner-friendly Prisma ORM project demonstrating how to connect a PostgreSQL database, define models, run migrations, and perform CRUD operations using Prisma Client with Node.js and TypeScript.
 
